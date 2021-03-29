@@ -1,0 +1,14 @@
+<svg id="Grupa_1" data-name="Grupa 1" xmlns="http://www.w3.org/2000/svg" width="106" height="20" viewBox="0 0 106 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00a7e9;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="10" cy="10" r="10"/>
+  <circle id="Ellipse_4_copy" data-name="Ellipse 4 copy" class="cls-1" cx="34" cy="10" r="6"/>
+  <circle id="Ellipse_4_copy_3" data-name="Ellipse 4 copy 3" class="cls-1" cx="96" cy="10" r="10"/>
+  <circle id="Ellipse_4_copy_4" data-name="Ellipse 4 copy 4" class="cls-1" cx="72" cy="10" r="6"/>
+  <circle id="Ellipse_4_copy_2" data-name="Ellipse 4 copy 2" class="cls-1" cx="53" cy="10" r="3"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg id="Grupa_1" data-name="Grupa 1" xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M1496,83.5h-2.72V81.739a0.721,0.721,0,0,1,.76-0.817h1.92V78.01l-2.65-.01a3.329,3.329,0,0,0-3.61,3.561V83.5H1488v3h1.7v8.491h3.58V86.5h2.41Z" transform="translate(-1473 -67)"/>
+  <path class="cls-1" d="M1492,67a19,19,0,1,1-19,19A19,19,0,0,1,1492,67Zm0,3.393A15.607,15.607,0,1,1,1476.39,86,15.609,15.609,0,0,1,1492,70.392Z" transform="translate(-1473 -67)"/>
+</svg>
